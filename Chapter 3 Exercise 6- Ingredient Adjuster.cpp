@@ -2,7 +2,7 @@
 //
 /* 
 File Name: Chapter 3 Exercise 6 Ingredient Adjusteder 
-GitHub URL:
+GitHub URL:https://github.com/omr24100/Chapter-3-Exercise-6--Ingredient-Adjuster.git
 Programmer: Olivia Ruiz
 Date: 2/11/2025
 Requirements: The recipe produces 48 cookies with this amount of Ingredients. Write a program that ask
